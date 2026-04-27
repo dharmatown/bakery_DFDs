@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Tv7IaitHzz2FwV7hNdBa">
-    <mxGraphModel dx="2219" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1794" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-13" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-14" connectable="0" parent="SyPXXZVp3w1nCE94F81z-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Read User&lt;div&gt;Account&lt;/div&gt;" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-14" connectable="0" parent="SyPXXZVp3w1nCE94F81z-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User&lt;div&gt;Account&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0182" y="3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -24,7 +24,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-17" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-18" connectable="0" parent="SyPXXZVp3w1nCE94F81z-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Grant Access" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-18" connectable="0" parent="SyPXXZVp3w1nCE94F81z-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Access Granted" vertex="1">
           <mxGeometry relative="1" x="0.0171" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -32,7 +32,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-21" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-22" connectable="0" parent="SyPXXZVp3w1nCE94F81z-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Redirect to Production Log" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-22" connectable="0" parent="SyPXXZVp3w1nCE94F81z-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Production Log Redirect" vertex="1">
           <mxGeometry relative="1" x="-0.1714" y="-3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-16" connectable="0" parent="SyPXXZVp3w1nCE94F81z-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Validate User" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-16" connectable="0" parent="SyPXXZVp3w1nCE94F81z-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User Validation" vertex="1">
           <mxGeometry relative="1" x="0.1294" y="3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -78,7 +78,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-30" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-31" connectable="0" parent="SyPXXZVp3w1nCE94F81z-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Write Production&lt;div&gt;batch&lt;/div&gt;" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-31" connectable="0" parent="SyPXXZVp3w1nCE94F81z-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Production&lt;div&gt;batch&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0727" y="3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -131,7 +131,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-84" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-85" connectable="0" parent="SyPXXZVp3w1nCE94F81z-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Update Stock" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-85" connectable="0" parent="SyPXXZVp3w1nCE94F81z-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Stock Update&amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="0.0435" y="2" as="geometry">
             <mxPoint x="-2" y="1" as="offset" />
           </mxGeometry>
@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-90" connectable="0" parent="SyPXXZVp3w1nCE94F81z-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Write Inventory Transfer" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-90" connectable="0" parent="SyPXXZVp3w1nCE94F81z-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Inventory Transfers" vertex="1">
           <mxGeometry relative="1" x="-0.2077" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -159,7 +159,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-109" connectable="0" parent="SyPXXZVp3w1nCE94F81z-108" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Write Stock Disposals" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-109" connectable="0" parent="SyPXXZVp3w1nCE94F81z-108" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Stock Disposals" vertex="1">
           <mxGeometry relative="1" x="-0.0468" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-40" connectable="0" parent="SyPXXZVp3w1nCE94F81z-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Return Production&lt;div&gt;History&lt;/div&gt;" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-40" connectable="0" parent="SyPXXZVp3w1nCE94F81z-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Production&lt;div&gt;History&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1355" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -193,7 +193,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-47" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-48" connectable="0" parent="SyPXXZVp3w1nCE94F81z-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Request Stock Transfer/Pull-out/OTH" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-48" connectable="0" parent="SyPXXZVp3w1nCE94F81z-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Stock Transfer/Pull-out/OTH" vertex="1">
           <mxGeometry relative="1" x="0.5815" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -224,7 +224,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-76" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-93" connectable="0" parent="SyPXXZVp3w1nCE94F81z-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Write&lt;div&gt;Inventory&lt;/div&gt;&lt;div&gt;Transfer&lt;/div&gt;" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-93" connectable="0" parent="SyPXXZVp3w1nCE94F81z-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Inventory&lt;/div&gt;&lt;div&gt;Transfer&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1429" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -275,7 +275,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-86" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-87" connectable="0" parent="SyPXXZVp3w1nCE94F81z-86" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Return Stock levels" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-87" connectable="0" parent="SyPXXZVp3w1nCE94F81z-86" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Stock levels" vertex="1">
           <mxGeometry relative="1" x="0.1053" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -288,7 +288,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-92" connectable="0" parent="SyPXXZVp3w1nCE94F81z-91" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Return Transfer History" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-92" connectable="0" parent="SyPXXZVp3w1nCE94F81z-91" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transfer History" vertex="1">
           <mxGeometry relative="1" x="-0.0194" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -300,7 +300,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-95" connectable="0" parent="SyPXXZVp3w1nCE94F81z-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Return Transfer&lt;div&gt;Records&lt;/div&gt;" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-95" connectable="0" parent="SyPXXZVp3w1nCE94F81z-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transfer&lt;div&gt;Records&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -361,7 +361,7 @@
             <mxPoint x="-170" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-111" connectable="0" parent="SyPXXZVp3w1nCE94F81z-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Return Disposal Logs" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-111" connectable="0" parent="SyPXXZVp3w1nCE94F81z-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Disposal Logs" vertex="1">
           <mxGeometry relative="1" x="0.0235" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
