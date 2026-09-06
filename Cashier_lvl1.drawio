@@ -257,13 +257,10 @@
         <mxCell id="Nky3f5zIueURiFZuMJ7k-56" edge="1" parent="1" source="Nky3f5zIueURiFZuMJ7k-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="yx0yztZDchgQGySX3Rtd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nky3f5zIueURiFZuMJ7k-57" connectable="0" parent="Nky3f5zIueURiFZuMJ7k-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Order Status" vertex="1">
+        <mxCell id="Nky3f5zIueURiFZuMJ7k-57" connectable="0" parent="Nky3f5zIueURiFZuMJ7k-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Reservation Status" vertex="1">
           <mxGeometry relative="1" x="-0.7154" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nky3f5zIueURiFZuMJ7k-80" edge="1" parent="1" source="Nky3f5zIueURiFZuMJ7k-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Nky3f5zIueURiFZuMJ7k-78">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOoA7JqLqFacBFhK-8C--5" edge="1" parent="1" source="Nky3f5zIueURiFZuMJ7k-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IOoA7JqLqFacBFhK-8C--3">
           <mxGeometry relative="1" as="geometry" />
@@ -284,7 +281,7 @@
         <mxCell id="Nky3f5zIueURiFZuMJ7k-54" edge="1" parent="1" source="yx0yztZDchgQGySX3Rtd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Nky3f5zIueURiFZuMJ7k-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nky3f5zIueURiFZuMJ7k-55" connectable="0" parent="Nky3f5zIueURiFZuMJ7k-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Advance Order" vertex="1">
+        <mxCell id="Nky3f5zIueURiFZuMJ7k-55" connectable="0" parent="Nky3f5zIueURiFZuMJ7k-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Reservation Request" vertex="1">
           <mxGeometry relative="1" x="0.671" y="3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
