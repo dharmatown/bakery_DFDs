@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Tv7IaitHzz2FwV7hNdBa">
-    <mxGraphModel dx="2561" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2461" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,7 +210,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-57" parent="SyPXXZVp3w1nCE94F81z-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;D3&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="30" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-58" parent="SyPXXZVp3w1nCE94F81z-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Products" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-58" parent="SyPXXZVp3w1nCE94F81z-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Inventory" vertex="1">
           <mxGeometry height="30" width="60" x="30" as="geometry" />
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-64" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.067;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" target="SyPXXZVp3w1nCE94F81z-1">
@@ -310,20 +310,6 @@
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-131" connectable="0" parent="SyPXXZVp3w1nCE94F81z-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ingredient&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Stocks&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2222" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-135" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="790" y="730" />
-              <mxPoint x="790" y="300" />
-            </Array>
-            <mxPoint x="490" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-136" connectable="0" parent="SyPXXZVp3w1nCE94F81z-135" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Update Low Stock" vertex="1">
-          <mxGeometry relative="1" x="-0.0466" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -431,6 +417,20 @@
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-161" connectable="0" parent="SyPXXZVp3w1nCE94F81z-160" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Purchase Order Status" vertex="1">
           <mxGeometry relative="1" x="-0.7937" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJWJHbLaNSE5rq-Jf6f8-1" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760.06" y="960.06" />
+              <mxPoint x="760.06" y="730.06" />
+            </Array>
+            <mxPoint x="750" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJWJHbLaNSE5rq-Jf6f8-2" connectable="0" parent="yJWJHbLaNSE5rq-Jf6f8-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ingredient Stock Update" vertex="1">
+          <mxGeometry relative="1" x="0.0264" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
