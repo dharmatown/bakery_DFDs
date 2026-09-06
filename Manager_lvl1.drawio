@@ -684,14 +684,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-SahKEa5FSUN6hEA_Ux-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J-SahKEa5FSUN6hEA_Ux-58">
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="J-SahKEa5FSUN6hEA_Ux-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="1330" />
-              <mxPoint x="540.5" y="1330" />
               <mxPoint x="540.5" y="1320" />
-              <mxPoint x="600" y="1320" />
+              <mxPoint x="540.5" y="1310" />
+              <mxPoint x="600" y="1310" />
               <mxPoint x="600" y="1315" />
+              <mxPoint x="610" y="1315" />
             </Array>
             <mxPoint x="470" y="1320" as="sourcePoint" />
           </mxGeometry>
@@ -701,17 +701,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-SahKEa5FSUN6hEA_Ux-67" edge="1" parent="1" source="9KIvZXjPWq8SflNNA55x-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="9KIvZXjPWq8SflNNA55x-385">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="1350" />
-              <mxPoint x="760" y="1350" />
-            </Array>
-            <mxPoint x="830" y="1440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-77" edge="1" parent="1" source="9KIvZXjPWq8SflNNA55x-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="9KIvZXjPWq8SflNNA55x-384">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J-SahKEa5FSUN6hEA_Ux-69" connectable="0" parent="J-SahKEa5FSUN6hEA_Ux-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transfer&amp;nbsp;&lt;div&gt;Void Update&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.3788" y="-1" as="geometry">
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-79" connectable="0" parent="J-SahKEa5FSUN6hEA_Ux-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transfer Void Update" vertex="1">
+          <mxGeometry relative="1" x="0.0746" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -982,10 +976,20 @@
           <mxGeometry height="30" width="50" x="40" as="geometry" />
         </mxCell>
         <mxCell id="9KIvZXjPWq8SflNNA55x-382" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="670" y="1550" as="geometry" />
+          <mxGeometry height="30" width="100" x="610" y="1330" as="geometry" />
         </mxCell>
         <mxCell id="9KIvZXjPWq8SflNNA55x-383" parent="9KIvZXjPWq8SflNNA55x-382" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="" vertex="1">
           <mxGeometry height="30" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-76" edge="1" parent="9KIvZXjPWq8SflNNA55x-382" source="9KIvZXjPWq8SflNNA55x-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-78" connectable="0" parent="J-SahKEa5FSUN6hEA_Ux-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transfer Records" vertex="1">
+          <mxGeometry relative="1" x="-0.0508" y="2" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9KIvZXjPWq8SflNNA55x-384" parent="9KIvZXjPWq8SflNNA55x-382" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D7" vertex="1">
           <mxGeometry height="30" width="30" as="geometry" />
@@ -1115,7 +1119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J-SahKEa5FSUN6hEA_Ux-54" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="610" y="1300" as="geometry" />
+          <mxGeometry height="30" width="100" x="610" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="J-SahKEa5FSUN6hEA_Ux-55" parent="J-SahKEa5FSUN6hEA_Ux-54" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="" vertex="1">
           <mxGeometry height="30" width="100" as="geometry" />
@@ -1137,7 +1141,10 @@
         <mxCell id="J-SahKEa5FSUN6hEA_Ux-63" edge="1" parent="1" source="J-SahKEa5FSUN6hEA_Ux-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="9KIvZXjPWq8SflNNA55x-275">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="612.5" y="1305" />
+              <mxPoint x="612.5" y="1280" />
+              <mxPoint x="612.5" y="1295" />
+              <mxPoint x="480" y="1295" />
+              <mxPoint x="480" y="1305" />
             </Array>
             <mxPoint x="450" y="1340" as="targetPoint" />
           </mxGeometry>
@@ -1145,38 +1152,6 @@
         <mxCell id="J-SahKEa5FSUN6hEA_Ux-64" connectable="0" parent="J-SahKEa5FSUN6hEA_Ux-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cash Records" vertex="1">
           <mxGeometry relative="1" x="0.2861" y="-1" as="geometry">
             <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KIvZXjPWq8SflNNA55x-388" edge="1" parent="1" source="9KIvZXjPWq8SflNNA55x-385" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="9KIvZXjPWq8SflNNA55x-366">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="722.5" y="1600" />
-              <mxPoint x="611" y="1600" />
-              <mxPoint x="611" y="1590" />
-              <mxPoint x="510" y="1590" />
-              <mxPoint x="510" y="1540" />
-            </Array>
-            <mxPoint x="510" y="1540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KIvZXjPWq8SflNNA55x-392" connectable="0" parent="9KIvZXjPWq8SflNNA55x-388" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Inventory Transfers" vertex="1">
-          <mxGeometry relative="1" x="-0.0844" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J-SahKEa5FSUN6hEA_Ux-74" edge="1" parent="1" source="9KIvZXjPWq8SflNNA55x-385" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="9KIvZXjPWq8SflNNA55x-275">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="747.5" y="1530" />
-              <mxPoint x="735" y="1530" />
-              <mxPoint x="735" y="1370" />
-              <mxPoint x="430" y="1370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J-SahKEa5FSUN6hEA_Ux-75" connectable="0" parent="J-SahKEa5FSUN6hEA_Ux-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transfer Records" vertex="1">
-          <mxGeometry relative="1" x="0.2872" y="-4" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
