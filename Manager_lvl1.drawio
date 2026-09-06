@@ -644,16 +644,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="40" />
-              <mxPoint x="160" y="40" />
-              <mxPoint x="160" y="850" />
-              <mxPoint x="-130" y="850" />
+              <mxPoint x="140" y="40" />
+              <mxPoint x="140" y="850" />
             </Array>
             <mxPoint x="-140" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9KIvZXjPWq8SflNNA55x-269" connectable="0" parent="9KIvZXjPWq8SflNNA55x-268" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cash Records" vertex="1">
           <mxGeometry relative="1" x="0.7744" y="-1" as="geometry">
-            <mxPoint y="180" as="offset" />
+            <mxPoint x="140" y="-409" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9KIvZXjPWq8SflNNA55x-264" parent="9KIvZXjPWq8SflNNA55x-261" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cash Management" vertex="1">
