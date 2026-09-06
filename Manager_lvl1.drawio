@@ -829,7 +829,7 @@
         <mxCell id="9KIvZXjPWq8SflNNA55x-311" edge="1" parent="1" source="9KIvZXjPWq8SflNNA55x-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.391;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" target="9KIvZXjPWq8SflNNA55x-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9KIvZXjPWq8SflNNA55x-312" connectable="0" parent="9KIvZXjPWq8SflNNA55x-311" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Request Records" vertex="1">
+        <mxCell id="9KIvZXjPWq8SflNNA55x-312" connectable="0" parent="9KIvZXjPWq8SflNNA55x-311" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Record Request" vertex="1">
           <mxGeometry relative="1" x="-0.7224" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
