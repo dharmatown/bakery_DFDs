@@ -503,6 +503,11 @@
         <mxCell id="yJWJHbLaNSE5rq-Jf6f8-10" edge="1" parent="1" source="yJWJHbLaNSE5rq-Jf6f8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yJWJHbLaNSE5rq-Jf6f8-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yJWJHbLaNSE5rq-Jf6f8-15" connectable="0" parent="yJWJHbLaNSE5rq-Jf6f8-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Reservation&amp;nbsp;&lt;div&gt;Status Update&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.193" y="3" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yJWJHbLaNSE5rq-Jf6f8-13" edge="1" parent="1" source="yJWJHbLaNSE5rq-Jf6f8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -550,6 +555,18 @@
         <mxCell id="yJWJHbLaNSE5rq-Jf6f8-12" connectable="0" parent="yJWJHbLaNSE5rq-Jf6f8-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pickup Confirmation" vertex="1">
           <mxGeometry relative="1" x="0.7619" y="3" as="geometry">
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJWJHbLaNSE5rq-Jf6f8-16" edge="1" parent="1" source="yJWJHbLaNSE5rq-Jf6f8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="yJWJHbLaNSE5rq-Jf6f8-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1140.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJWJHbLaNSE5rq-Jf6f8-17" connectable="0" parent="yJWJHbLaNSE5rq-Jf6f8-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Reservation Details" vertex="1">
+          <mxGeometry relative="1" x="0.0578" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
