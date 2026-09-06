@@ -674,7 +674,7 @@
         <mxCell id="9KIvZXjPWq8SflNNA55x-275" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="12.0" vertex="1">
           <mxGeometry height="140" width="160" x="310" y="1200" as="geometry" />
         </mxCell>
-        <mxCell id="9KIvZXjPWq8SflNNA55x-276" parent="9KIvZXjPWq8SflNNA55x-275" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View Transactions" vertex="1">
+        <mxCell id="9KIvZXjPWq8SflNNA55x-276" parent="9KIvZXjPWq8SflNNA55x-275" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Transactions" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="55" as="geometry" />
         </mxCell>
         <mxCell id="9KIvZXjPWq8SflNNA55x-282" edge="1" parent="1" source="9KIvZXjPWq8SflNNA55x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.027;exitY=0.063;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="9KIvZXjPWq8SflNNA55x-121">
