@@ -1016,6 +1016,21 @@
         <mxCell id="J-SahKEa5FSUN6hEA_Ux-4" parent="J-SahKEa5FSUN6hEA_Ux-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Reservation" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="55" as="geometry" />
         </mxCell>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-6" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="580" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-7" parent="J-SahKEa5FSUN6hEA_Ux-6" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="" vertex="1">
+          <mxGeometry height="30" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-8" parent="J-SahKEa5FSUN6hEA_Ux-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D5" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-9" parent="J-SahKEa5FSUN6hEA_Ux-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Inventory" vertex="1">
+          <mxGeometry height="30" width="50" x="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J-SahKEa5FSUN6hEA_Ux-10" edge="1" parent="J-SahKEa5FSUN6hEA_Ux-6" source="J-SahKEa5FSUN6hEA_Ux-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="J-SahKEa5FSUN6hEA_Ux-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
