@@ -388,7 +388,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-148" connectable="0" parent="SyPXXZVp3w1nCE94F81z-147" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Suppliers" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-148" connectable="0" parent="SyPXXZVp3w1nCE94F81z-147" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Suppler&lt;div&gt;Details&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.113" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
