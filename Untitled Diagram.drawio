@@ -40,7 +40,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="1.0" vertex="1">
           <mxGeometry height="120" width="150" x="340" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-5" parent="SyPXXZVp3w1nCE94F81z-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Login" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-5" parent="SyPXXZVp3w1nCE94F81z-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Authenticate User" vertex="1">
           <mxGeometry height="30" width="60" x="45" y="50" as="geometry" />
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-6" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-4">
@@ -102,13 +102,13 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-19" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="2.0" vertex="1">
           <mxGeometry height="120" width="150" x="340" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-20" parent="SyPXXZVp3w1nCE94F81z-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Production Log" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-20" parent="SyPXXZVp3w1nCE94F81z-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Record Production Batch" vertex="1">
           <mxGeometry height="30" width="60" x="45" y="50" as="geometry" />
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-23" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-24" connectable="0" parent="SyPXXZVp3w1nCE94F81z-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Record Production" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-24" connectable="0" parent="SyPXXZVp3w1nCE94F81z-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Production record" vertex="1">
           <mxGeometry relative="1" x="0.3143" y="3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -167,7 +167,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="3.0" vertex="1">
           <mxGeometry height="120" width="150" x="340" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-36" parent="SyPXXZVp3w1nCE94F81z-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Production&lt;div&gt;Inventory&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-36" parent="SyPXXZVp3w1nCE94F81z-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Inventory" vertex="1">
           <mxGeometry height="30" width="60" x="45" y="50" as="geometry" />
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-39" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-19">
@@ -246,7 +246,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-66" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="4.0" vertex="1">
           <mxGeometry height="120" width="150" x="340" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-67" parent="SyPXXZVp3w1nCE94F81z-66" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Restock Request" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-67" parent="SyPXXZVp3w1nCE94F81z-66" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Process Restock Request" vertex="1">
           <mxGeometry height="30" width="60" x="45" y="50" as="geometry" />
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-69" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-66">
@@ -316,7 +316,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-98" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="5.0" vertex="1">
           <mxGeometry height="120" width="150" x="340" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-99" parent="SyPXXZVp3w1nCE94F81z-98" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingredients&lt;div&gt;Management&lt;/div&gt;" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-99" parent="SyPXXZVp3w1nCE94F81z-98" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Ingredients" vertex="1">
           <mxGeometry height="30" width="60" x="45" y="50" as="geometry" />
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-101" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-98">
@@ -437,7 +437,7 @@
         <mxCell id="SyPXXZVp3w1nCE94F81z-137" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="6.0" vertex="1">
           <mxGeometry height="120" width="150" x="340" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="SyPXXZVp3w1nCE94F81z-138" parent="SyPXXZVp3w1nCE94F81z-137" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Purchase Order" vertex="1">
+        <mxCell id="SyPXXZVp3w1nCE94F81z-138" parent="SyPXXZVp3w1nCE94F81z-137" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Purchase Order" vertex="1">
           <mxGeometry height="30" width="60" x="45" y="50" as="geometry" />
         </mxCell>
         <mxCell id="SyPXXZVp3w1nCE94F81z-140" edge="1" parent="1" source="SyPXXZVp3w1nCE94F81z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="SyPXXZVp3w1nCE94F81z-137">
